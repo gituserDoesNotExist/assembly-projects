@@ -1,0 +1,1 @@
+Die Dateien in usr-local-bin sollten im GuestOS (hier: DebianVM) in den Ordner /usr/local/bin gelegt werden.
